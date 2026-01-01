@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I’m Vijay 👋
 
-<!--
-**VijaycodeON/VijaycodeON** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Embedded systems and software learner with a strong focus on
+fundamentals, clarity, and real-world behavior.
 
-Here are some ideas to get you started:
+📍 Bengaluru, India
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I work on
+- C programming and data structures
+- Embedded systems concepts
+- System-level problem solving
+
+## Current focus
+- Embedded C and microcontroller fundamentals
+- Linux internals and low-level concepts
+- Writing clean, structured, understandable code
+
+## Featured projects
+- LSB Steganography (C)
+- Address Book Management System (C)
+
+I value correctness, simplicity, and understanding systems
+as they actually behave — not just how they are supposed to.
