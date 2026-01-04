@@ -1,4 +1,4 @@
-# Hi, I’m Vijay 👋
+# Hi, I’m Vijay 😁
 
 Embedded systems and software learner with a strong focus on
 fundamentals, clarity, and real-world behavior.
